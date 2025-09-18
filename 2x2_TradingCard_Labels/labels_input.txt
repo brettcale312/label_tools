@@ -1,0 +1,95 @@
+Meltan (#124/189)	Basic Metal-type - Single Strike	Reverse Holo - Headbutt attack	TCGPlayer ~$0.25	$1.00	718-5277	15970303
+Meowscarada (#015/198)	Stage 2 Grass-type - evolves from Floragato	Trick Cape + Flower Blast	TCGPlayer ~$0.20–0.30	$1.00	718-5278	15970301
+Kingambit (#134/198)	Stage 2 Dark-type - evolves from Bisharp	Leadership Ability + Hack At	TCGPlayer ~$0.20–0.30	$3.00	718-5279	15970331
+Palkia (#040/192)	Basic Water-type Legendary	Teleportation Burst + Prize Count	TCGPlayer ~$0.25	$1.00	718-5280	15970334
+Bouffalant (#139/192)	Basic Colorless - Curly Wall Ability	Reverse Holo - Boundless Power	TCGPlayer ~$0.20–0.30	$1.00	718-5281	15970305
+Klara (#145/198)	Trainer – Supporter	Retrieve 2 Pokémon or 2 Energy	TCGPlayer ~$0.25–0.35	$1.00	718-5282	15970309
+Parasol Lady (#109/192)	Trainer – Supporter	Shuffle + Draw cards (draw 8 if going second - first turn)	TCGPlayer ~$0.25–0.30	$1.00	718-5283	15970355
+Defiance Band (#152/198)	Trainer – Pokémon Tool	Extra damage if you have more Prize cards	TCGPlayer ~$0.20–0.30	$1.00	718-5284	15970377
+Vengeful Punch (#197/197)	Trainer – Pokémon Tool	Puts 4 damage counters if holder is KO’d	TCGPlayer ~$0.25–0.30	$1.00	718-5285	15970294
+Annihilape (#100/197)	Stage 2 Fighting-type - evolves from Primeape	Tantrum + Destined Fight	TCGPlayer ~$0.25–0.35	$2.50	718-5286	15970313
+Thundurus (#070/197)	Ability: Adverse Weather protects Benched Pokémon	Attack: Gigantic Bolt for 140	TCGPlayer ~$0.25	$1.00	718-5287	15970372
+Jumpluff (#003/193)	Ability: Drifting Dodge flips to block damage	Attack: Fluffy Breeze spreads 30 damage	TCGPlayer ~$0.15	$1.00	718-5288	15970288
+Dudunsparce (#129/162)	Ability: Run Away Draw to draw 3 cards	Attack: Land Crush for 90	TCGPlayer ~$0.20	$1.00	718-5289	15970306
+Toxtricity (#072/197)	Attack: Leer can Paralyze	Attack: Loud Mix scales with different Bench types	TCGPlayer ~$0.25	$1.00	718-5290	15970296
+Thundurus (#070/197) [Duplicate]	Ability: Adverse Weather protects Benched Pokémon	Attack: Gigantic Bolt for 140	TCGPlayer ~$0.25	$1.00	718-5291	15970292
+Toedscruel (#018/142)	Attack: Mega Drain heals 30	Attack: Whip Smash for 90	TCGPlayer ~$0.20	$1.00	718-5292	15970295
+Bronzong (#145/197)	Attack: Oracle Press blocks effects next turn	Attack: Extrasensory deals more if hand sizes match	TCGPlayer ~$0.20	$1.00	718-5293	15970349
+Magcargo (#029/162)	Ability: Lava Zone burns new Active Pokémon	Attack: Heat Blast for 100	TCGPlayer ~$0.25	$2.00	718-5294	15970361
+Infernape (#033/167)	Ability: Pyro Dance attaches Fire Energy	Attack: Scorching Fire for 200	TCGPlayer ~$0.25	$3.00	718-5295	15970348
+Spiritomb (#089/193)	Ability: Fettered in Misfortune disables V Abilities	Attack: Fade Out for 10	TCGPlayer ~$0.25–0.35	$1.00	718-5296	15970332
+Wugtrio (#053/198)	Reverse Holo	Suddenly Select lets you search up to 3 Tool cards	TCGPlayer ~$0.05–0.10	$1.00	718-5297	15970283
+Dottler (#074/192)	Reverse Holo	Protect prevents all damage on heads flip	TCGPlayer ~$0.05–0.10	$1.00	718-5298	15970291
+Revavroom (#142/198)	Reverse Holo	Rumbling Engine discard to draw until 6	TCGPlayer ~$0.10–0.20	$1.00	718-5299	15970317
+Beach Court (#167/198)	Reverse Holo Trainer Stadium	Reduces Retreat Cost of Basic Pokémon by ★	TCGPlayer ~$0.10–0.20	$1.00	718-5300	15970367
+Numel (#017/091)	Reverse Holo	Singe burns opponent’s Active Pokémon	TCGPlayer ~$0.05–0.10	$1.00	718-5301	15970342
+Alcremie (#065/192)	Reverse Holo	Colorful Confection searches deck for 2–3 Pokémon	TCGPlayer ~$0.05–0.15	$1.00	718-5302	15970358
+Metang (#062/195)	Reverse Holo	Straightforward 30 & 50 damage attacks	TCGPlayer ~$0.05–0.10	$1.00	718-5303	15970329
+Zarude (#016/159)	Reverse Holo	Triple Whip up to 210 damage on 3 heads	TCGPlayer ~$0.10–0.20	$1.00	718-5304	15970374
+Drifblim (#065/192)	Reverse Holo	Everyone Explode Now scales with Drifloon/Drifblim in play	TCGPlayer ~$0.05–0.10	$1.00	718-5305	15970376
+Pincurchin (#053/193)	Reverse Holo	Call for Family searches 2 Pokémon	TCGPlayer ~$0.05–0.10	$1.00	718-5306	15970336
+Volcarona (#035/193)	Reverse Holo	Volcanic Heat does 120 but prevents attacking next turn	TCGPlayer ~$0.05–0.15	$1.00	718-5307	15970341
+Espurr (#081/195)	Reverse Holo	Yarn-style artwork, collectible design	TCGPlayer ~$0.05–0.10	$1.00	718-5308	15970314
+Spewpa (#006/197)	Stage 1 evolution of Scatterbug	Simple holo pattern, common set card	TCGPlayer ~$0.05–0.10	$1.00	718-5309	15970324
+Klawf (#122/198)	Reverse Holo	High HP crab Pokémon with Adrenaline Hammer	TCGPlayer ~$0.10–0.20	$3.00	718-5310	15970370
+Persian (#049/064)	Reverse Holo	Stage 1 evolution of Meowth, features Fury Swipes	TCGPlayer ~$0.05–0.15	$1.00	718-5311	15970364
+Kingdra (#032/182)	Stage 2 with Whirltide and Hydro Splash	Rare water-type dragon	TCGPlayer ~$0.15–0.25	$1.00	718-5312	15970327
+Shinx (#040/159)	Reverse Holo	Cute electric-type with Thunder Jolt	TCGPlayer ~$0.05–0.12	$1.00	718-5313	15970362
+Varoom (#108/142)	Reverse Holo	Basic Pokémon with Ram attack	TCGPlayer ~$0.05–0.10	$1.00	718-5314	15970320
+Toedscool (#178/197)	Reverse Holo	Ground/Fighting type with Smash Kick and Mud-Slap	TCGPlayer ~$0.05–0.10	$1.00	718-5315	15970316
+Dreepy (#128/167)	Reverse Holo	Basic Dragon/Ghost with Petty Grudge and Bite	TCGPlayer ~$0.05–0.10	$1.00	718-5316	15970290
+Paldean Student (#086/091)	Trainer – Supporter	Search deck for non-Rule Box Pokémon	TCGPlayer ~$0.05	$1.00	718-5317	15970363
+Garganacl (#123/193)	Fighting-type Stage 2	Blessed Salt Ability & Knocking Hammer	TCGPlayer ~$0.06	$3.00	718-5318	15970335
+Timburr (#103/197)	Fighting-type Basic	Best Punch with coin flip	TCGPlayer ~$0.05	$1.00	718-5319	15970351
+Frogadier (#040/142)	Water-type Stage 1	Wave Splash attack	TCGPlayer ~$0.06	$1.00	718-5320	15970325
+Lickitung (#124/162)	Colorless-type Basic	Tongue Pull & Strength	TCGPlayer ~$0.05	$1.00	718-5321	15970337
+Noivern (#128/193)	Colorless-type Stage 1	Tuning Echo Ability & Frightening Howl	TCGPlayer ~$0.07	$1.00	718-5322	15970308
+Thundurus (#070/197)	Lightning-type Basic	Adverse Weather Ability & Gigantic Bolt	TCGPlayer ~$0.07	$1.00	718-5323	15970360
+Dipplin (#078/167)	Grass-type Stage 1	Festival Lead Ability & Do the Wave	TCGPlayer ~$0.07	$1.00	718-5324	15970371
+Skiploom (#003/203)	Grass-type Stage 1, Rapid Strike	Solar Evolution Ability & Spinning Attack	TCGPlayer ~$0.06	$2.00	718-5325	15970347
+Solrock (Pokémon GO #033/078)	Fighting-type Basic	Sun Energy Ability & Spinning Attack	TCGPlayer ~$0.08	$2.00	718-5326	15970339
+Camerupt (Pokémon GO #014/078)	Fire-type Stage 1	Split Bomb & Heat Blast 120	TCGPlayer ~$0.05	$2.00	718-5327	15970330
+Abomasnow (Single Strike #010/198)	Grass-type Stage 1	Toughness Boost Ability & Mega Punch 90	TCGPlayer ~$0.07	$1.00	718-5328	15970318
+Floette (Rapid Strike #072/203)	Psychic-type Stage 1	Fairy Wind 20 & Double Spin coin-flip attack	TCGPlayer ~$0.05	$1.00	718-5329	15970293
+Numel (Pokémon GO #013/078)	Fire-type Basic	Tackle 20 & Stomp coin-flip attack	TCGPlayer ~$0.05	$2.00	718-5330	15970286
+Jigglypuff (PAL #083/193)	Psychic-type Basic	Sing causes Sleep & Slap 20 damage	TCGPlayer ~$0.03	$1.00	718-5331	15970298
+Melmetal (SOB #104/142)	Metal-type Stage 1	Wrack Down 50 & Reforged Axe 250	TCGPlayer ~$0.06	$1.00	718-5332	15970373
+Zygarde (#SM228?)	Fighting-type Basic	Cellular Companion Ability & Boost Fang	TCGPlayer ~$0.10	$4.00	718-5333	15970359
+Rabsca (PAL #099/193)	Psychic-type Stage 1	Revival Blessing & Psybeam 50 (Confuse)	TCGPlayer ~$0.05	$1.00	718-5334	15970346
+Palafin (OBF #062/197)	Water-type Stage 1	Jet Punch 30 & Justice Kick 210	TCGPlayer ~$0.06	$1.00	718-5335	15970323
+Houndstone (PAL #043/091)	Psychic-type Stage 1	Last Respects scaling attack	TCGPlayer ~$0.06	$1.00	718-5336	15970338
+Drednaw (SVB #044/142)	Water-type Stage 1	Impervious Shell Ability & Hard Crunch 80+	TCGPlayer ~$0.05	$2.00	718-5337	15970322
+Donphan (PAL #042/091)	Fighting-type Stage 1	Cragalanch & Powerful Spin 160	TCGPlayer ~$0.07	$1.00	718-5338	15970353
+Ceruledge (SVP #025/197)	Fire-type Stage 1	Cursed Edge & Black Blaze Slash 160	TCGPlayer ~$0.08	$1.00	718-5339	15970289
+Kingdra (PAR #032/182)	Water-type Stage 2	Whirltide & Hydro Splash 120	TCGPlayer ~$0.15	$1.00	718-5340	15970340
+Terrakion (SWSH12 #087/185)	Fighting-type Basic	Cavern Tackle 120	TCGPlayer ~$0.10	$1.00	718-5341	15970311
+Pikachu (PAL #062/193)	Lightning-type Basic	Growl & Pika Bolt 30	TCGPlayer ~$0.25–0.35	$3.00	718-5342	15970357
+Empoleon (BRS #037/172)	Water-type Stage 2	Emergency Surfacing Ability & Water Arrow	TCGPlayer ~$0.10–0.15	$2.00	718-5343	15970328
+Rhyperior (SWSH12 #091/195)	Fighting-type Stage 2	Geo Cannon & Rocky Tackle 180	TCGPlayer ~$0.05–0.10	$3.00	718-5344	15970319
+Armarouge (SVP #075/197)	Fire-type Stage 1	Fire Off Ability & Flame Cannon 90	TCGPlayer ~$0.10	$1.00	718-5345	15970299
+Rhyperior (SVB #087/142)	Fighting-type Stage 2	Wide Wall Ability & Drill Run 180	TCGPlayer ~$0.05–0.10	$4.00	718-5346	15970365
+Munkidori (#095/167)	Psychic-type Basic Pokémon	Ability: Adrena-Brain (move damage counters if Psychic Energy attached)	TCGPlayer NM ~$0.10–$0.20	$2.00	718-5347	15970326
+Magmortar (#021/159)	Fire-type Stage 1 Pokémon	Ability: Magma Surge, Attack: Searing Flame 90	TCGPlayer NM ~$0.08–$0.20	$2.00	718-5348	15970297
+Bunnelby (#SV015/SV122, Shiny Vault)	Colorless-type Basic Pokémon	Attack: Mad Party (20x per Mad Party in discard)	TCGPlayer NM ~$0.40–$0.60	$6.00	718-5349	15970375
+Poliwrath (#065/196)	Fighting-type Stage 2 Pokémon	Attacks: Split Spiral Punch 60, Splash Loop 160	TCGPlayer NM ~$0.10–$0.25	$1.00	718-5350	15970310
+Oricorio (#033/193)	Fire-type Basic Pokémon	Ability: Ardent Dancing, Attack: Flap 30	TCGPlayer NM ~$0.08–$0.20	$1.00	718-5351	15970321
+Carracosta (#038/142)	Water-type Stage 2 Pokémon	Ability: Primal Knowledge, Attack: Tidal Wave 150	TCGPlayer NM ~$0.10–$0.25	$2.00	718-5352	15970344
+Klinklang (#101/142)	Metal-type Stage 2 Pokémon	Ability: Emergency Rotation, Attack: Hyper Ray 130	TCGPlayer NM ~$0.10–$0.20	$1.00	718-5353	15970356
+Bronzong (#145/197)	Metal-type Stage 1 Pokémon	Attacks: Oracle Press 20, Extrasensory 70+	TCGPlayer NM ~$0.08–$0.20	$1.00	718-5354	15970302
+Hisuian Basculegion (#038/189)	Water-type Stage 1 Pokémon	Attacks: Grudge Dive 30+, Jet Headbutt 80	TCGPlayer NM ~$0.10–$0.25	$1.00	718-5355	15970287
+Simipour (#042/182)	Water-type Stage 1 Pokémon	Ability: Monkey Trio, Attack: Liquid Lashing 50	TCGPlayer NM ~$0.08–$0.20	$1.00	718-5356	15970333
+Vivillon (#010/189)	Stage 2 Grass-type evolved from Spewpa	Attacks: Miracle Powder, Bug Buzz	TCGPlayer NM ~$0.05	$1.00	718-5357	15970345
+Slowpoke (#042/198)	Basic Water-type	Attacks: Rest, Headbutt	TCGPlayer NM ~$0.05	$1.00	718-5358	15970284
+Charmeleon (#008/097)	Stage 1 Fire-type evolved from Charmander	Ability: Flare Veil; Attack: Combustion	TCGPlayer NM ~$0.20	$2.50	718-5359	15970315
+Charmeleon (#003/192)	Stage 1 Fire-type evolved from Charmander	Attacks: Combustion, Fire Blast	TCGPlayer NM ~$0.20	$2.50	718-5360	15970307
+Spiritomb (#87/113)	Basic Darkness-type	Ability: Sealing Scream; Attack: Hexed Mirror	TCGPlayer NM ~$0.40	$1.00	718-5361	15970350
+Sharpedo (#38/108, 2007)	Stage 1 Darkness-type evolved from Carvanha	Attacks: Tight Jaw, Darkness Charge	TCGPlayer NM ~$1.00	$4.00	718-5362	15970343
+Arcanine (#020/195)	Stage 1 Fire-type evolved from Growlithe	Attacks: Flame Cloak, Fighting Tackle	TCGPlayer NM ~$0.10	$2.00	718-5363	15970285
+Muk (#101/189)	Stage 1 Darkness-type evolved from Grimer	Attacks: Triple Poison, Sludge Whirlpool	TCGPlayer NM ~$0.05	$1.00	718-5364	15970300
+Galarian Sirfetch’d (#095/202)	Stage 1 Fighting-type evolved from Galarian Farfetch’d	Attacks: Peck, Leek Strike	TCGPlayer NM ~$0.10	$1.00	718-5365	15970368
+Purugly (#160/214)	Stage 1 Colorless-type evolved from Glameow	Attacks: Stray Cat Dash, Lunge Out	TCGPlayer NM ~$0.08	$2.00	718-5366	15970369
+Hisuian Avalugg (#040/189)	Stage 1 Water-type evolved from Bergmite	Ability: Massive Ice; Attack: Mountain Gale	TCGPlayer NM ~$0.05	$1.00	718-5367	15970352
+Hoopa (#122/196)	Basic Darkness-type	Attack: Hand of Djinn & Tyrannical Hole	TCGPlayer NM ~$0.08	$1.00	718-5368	15970366
+Bouffalant (#148/196)	Basic Colorless-type	Lost Headbutt & Superpowered Horns	TCGPlayer NM ~$0.05	$1.00	718-5369	15970312
+Clefable (#080/196)	Stage 1 Psychic-type evolved from Clefairy	Ability: Spirit Charm; Attack: Moon Impact	TCGPlayer NM ~$0.06	$1.00	718-5370	15970304
+Dewgong (#034/196)	Stage 1 Water-type evolved from Seel	Swim Freely & Floe Return	TCGPlayer NM ~$0.05	$1.00	718-5371	15970354
