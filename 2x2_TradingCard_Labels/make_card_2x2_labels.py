@@ -1,3 +1,5 @@
+# make_pokemon_2x_labels.py
+
 # pip install reportlab python-barcode Pillow
 from reportlab.pdfgen import canvas
 from reportlab.lib.pagesizes import letter
@@ -10,8 +12,10 @@ from reportlab.lib.utils import simpleSplit
 
 import csv
 import os
+import sys
+from pathlib import Path
 
-# ---------- CONFIG ----------
+# ---------- CONFIG (defaults) ----------
 PAGE_W = 2 * inch     # each label is a 2" x 2" page
 PAGE_H = 2 * inch
 
@@ -21,7 +25,7 @@ BODY_FONT  = "Helvetica"   # you wanted bullets bold
 TITLE_SIZE = 10                 # this is the “minus 1pt” version you liked
 BODY_SIZE  = 9
 LINE_GAP   = 3                  # space between bullet lines
-TOP_PADDING = 8                # small top margin to avoid clipping
+TOP_PADDING = 8                 # small top margin to avoid clipping
 LEFT_MARGIN = 8
 RIGHT_MARGIN = 8
 
@@ -29,10 +33,10 @@ BARCODE_HEIGHT = 0.45 * inch    # shorter barcode so it never overruns
 BAR_GAP = 6                     # gap between description and barcode block
 TEXT_UNDER_BAR_GAP = 2
 
-# Data file in same folder:
-DATA_FILE = "labels_input.txt"
-OUTPUT = "pokemon_2x2_labels.pdf"
-# ----------------------------
+# Defaults if no CLI args are provided
+DEFAULT_DATA_FILE = "card_label_input.txt"
+DEFAULT_OUTPUT = "card_2x2_label.pdf"
+# --------------------------------------
 
 def read_rows(path):
     """
@@ -68,11 +72,9 @@ def wrap_text(text, fontName, fontSize, max_width):
     return simpleSplit(text, fontName, fontSize, max_width)
 
 def draw_label(c, row):
-    c.setFillColor(colors.black)         # make sure we’re not drawing white-on-white
+    c.setFillColor(colors.black)
     c.setStrokeColor(colors.black)
-    # thin debug border so you can confirm nothing is “blank”
-    c.setLineWidth(0.5)
-    # c.rect(1, 1, PAGE_W-2, PAGE_H-2)     # comment this out later if you’d like
+    # c.setLineWidth(0.5); c.rect(1, 1, PAGE_W-2, PAGE_H-2)  # debug border if needed
 
     # DESCRIPTION (top)
     x = LEFT_MARGIN
@@ -88,16 +90,13 @@ def draw_label(c, row):
 
     # Bullets
     c.setFont(BODY_FONT, BODY_SIZE)
-    def bullet(line):
-        return f"• {line}"
-
+    def bullet(line): return f"• {line}"
     bullets = [
         bullet(row["b1"]),
         bullet(row["b2"]),
         bullet(f"Price: {row['price']}"),
         bullet(f"ID: {row['inv']}")
     ]
-
     for text in bullets:
         lines = wrap_text(text, BODY_FONT, BODY_SIZE, usable_w)
         for i, line in enumerate(lines):
@@ -107,7 +106,6 @@ def draw_label(c, row):
     y -= BAR_GAP
 
     # BARCODE (bottom)
-    # code128 can draw directly; center it within the page
     bc = code128.Code128(row["barcode"], barHeight=BARCODE_HEIGHT, barWidth=0.0125*inch, humanReadable=False)
     bc_w = bc.width
     bc_x = (PAGE_W - bc_w) / 2
@@ -120,19 +118,32 @@ def draw_label(c, row):
     c.drawCentredString(PAGE_W / 2, bc_y - TEXT_UNDER_BAR_GAP - BODY_SIZE, footer_text)
 
 def main():
-    if not os.path.exists(DATA_FILE):
-        raise SystemExit(f"Data file not found: {DATA_FILE}")
+    # If args provided: use them. Else: fall back to defaults next to the script.
+    if len(sys.argv) >= 3:
+        data_file = Path(sys.argv[1])
+        output_pdf = Path(sys.argv[2])
+    else:
+        here = Path(__file__).resolve().parent
+        data_file = here / DEFAULT_DATA_FILE
+        output_pdf = here / DEFAULT_OUTPUT
+        print(f"[info] No args provided. Using defaults:\n  input={data_file}\n  output={output_pdf}")
 
-    rows = read_rows(DATA_FILE)
+    if not data_file.exists():
+        raise SystemExit(f"[error] Input file not found: {data_file}")
+
+    rows = read_rows(str(data_file))
     if not rows:
-        raise SystemExit("No rows parsed. Check your separators (tab or comma).")
+        raise SystemExit("[error] No rows parsed. Check your separators (tab or comma).")
 
-    c = canvas.Canvas(OUTPUT, pagesize=(PAGE_W, PAGE_H))
+    # Ensure output directory exists
+    output_pdf.parent.mkdir(parents=True, exist_ok=True)
+
+    c = canvas.Canvas(str(output_pdf), pagesize=(PAGE_W, PAGE_H))
     for row in rows:
         draw_label(c, row)
         c.showPage()
     c.save()
-    print(f"Done: {OUTPUT} ({len(rows)} labels)")
+    print(f"Done: {output_pdf} ({len(rows)} labels)")
 
 if __name__ == "__main__":
     main()
