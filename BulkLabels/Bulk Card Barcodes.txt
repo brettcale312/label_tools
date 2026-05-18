@@ -1,0 +1,10 @@
+# Use the first field (the number) to generate your barcode. Everything else is just for context!
+26323807	718-6002	718	Star Wars Unlimited $1 Jump to Lightspeed card
+26323808	718-6003	718	Mosaic Football Card $1	$1.00
+26323809	718-6001	718	Star Wars Unlimited $1 Secrets of Power card
+26324455	718-6004	718	2025 Mosaic Football Card $2	$2.00
+26324703	718-6006	718	MTG Lorwyn Eclipsed Bulk $2	$2.00
+26324704	718-6005	718	MTG Lorwyn Eclipsed Bulk $1	$1.00
+26324705	718-6007	718	Lorcana Whispers Bulk $1	$1.00
+26324706	718-6008	718	Lorcana Whispers Bulk $2	$2.00
+

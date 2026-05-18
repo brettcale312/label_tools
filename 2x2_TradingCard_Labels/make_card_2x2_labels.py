@@ -25,11 +25,11 @@ BODY_FONT  = "Helvetica"   # you wanted bullets bold
 TITLE_SIZE = 10                 # this is the “minus 1pt” version you liked
 BODY_SIZE  = 9
 LINE_GAP   = 3                  # space between bullet lines
-TOP_PADDING = 8                 # small top margin to avoid clipping
+TOP_PADDING = 6                 # small top margin to avoid clipping
 LEFT_MARGIN = 8
 RIGHT_MARGIN = 8
 
-BARCODE_HEIGHT = 0.45 * inch    # shorter barcode so it never overruns
+BARCODE_HEIGHT = 0.40 * inch    # shorter barcode so it never overruns
 BAR_GAP = 6                     # gap between description and barcode block
 TEXT_UNDER_BAR_GAP = 2
 
@@ -94,8 +94,7 @@ def draw_label(c, row):
     bullets = [
         bullet(row["b1"]),
         bullet(row["b2"]),
-        bullet(f"Price: {row['price']}"),
-        bullet(f"ID: {row['inv']}")
+        bullet(f"Price: {row['price']} | ID: {row['inv']}")
     ]
     for text in bullets:
         lines = wrap_text(text, BODY_FONT, BODY_SIZE, usable_w)
@@ -103,7 +102,12 @@ def draw_label(c, row):
             y -= (BODY_SIZE + (LINE_GAP if i == len(lines)-1 else 1))
             c.drawString(x, y, line)
 
-    y -= BAR_GAP
+    #y -= BODY_SIZE + LINE_GAP
+
+    # c.setFont(BODY_FONT, BODY_SIZE)
+    # num_text = row["barcode"]
+    # c.drawCentredString(PAGE_W/2.0, y, num_text)
+    y -= BAR_GAP  # slightly reduced gap before barcode itself
 
     # BARCODE (bottom)
     bc = code128.Code128(row["barcode"], barHeight=BARCODE_HEIGHT, barWidth=0.0125*inch, humanReadable=False)
@@ -113,7 +117,8 @@ def draw_label(c, row):
     bc.drawOn(c, bc_x, bc_y)
 
     # Text under the barcode (ID and price), centered
-    footer_text = f"{row['inv']}    {row['price']}"
+    # footer_text = f"{row['inv']}    {row['price']}"
+    footer_text = f"{row['barcode']}"
     c.setFont(TITLE_FONT, BODY_SIZE)
     c.drawCentredString(PAGE_W / 2, bc_y - TEXT_UNDER_BAR_GAP - BODY_SIZE, footer_text)
 
